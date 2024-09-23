@@ -37,7 +37,7 @@
 3. Install dependencies
 
    ```sh
-   npm install
+   yarn install
    ```
 
 4. Start the development server
@@ -51,7 +51,7 @@
 1. Generate a full static production build
 
    ```sh
-   npm build
+   next build
    ```
 
 2. Preview the site as it will appear once deployed

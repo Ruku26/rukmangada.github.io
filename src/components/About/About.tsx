@@ -104,7 +104,7 @@ export default About;
 //     };
 //
 //     const aboutUrl =
-//         theme === "light" ? "images/IMG_8147.jpeg" : "images/IMG_8147.jpeg";
+//         theme === "light" ? "images/shikhar-3.jpeg" : "images/shikhar-3.jpeg";
 //     return (
 //         <Wrapper {...delegated} id="about">
 //             <AboutMe>
@@ -141,7 +141,7 @@ export default About;
 //                 <Source media={MIN_WIDTH.desktop} srcSet={aboutUrl}/>
 //                 <Source
 //                     media={MIN_WIDTH.tablet}
-//                     srcSet="images/IMG_8147.jpeg"
+//                     srcSet="images/shikhar-3.jpeg"
 //                 />
 //                 <Image src={aboutUrl} alt="Shikhar Gupta"/>
 //             </Picture>
