@@ -5,8 +5,8 @@ import styles from "./Education.module.css";
 
 const COLLEGES = [
     {
-        degree: "Master of Science in Computer Science",
-        school: "Arizona State University",
+        degree: "Master of Science in Business Analytics and Artificial Intelligence",
+        school: "University of Texas at Dallas",
         courses: [
             "Cloud Computing",
             "Data Visualization",
@@ -21,8 +21,8 @@ const COLLEGES = [
         imgSrc: "/images/asu.jpeg",
     },
     {
-        degree: "Bachelor of Engineering in Computer Science",
-        school: "PES University",
+        degree: "Bachelor of Technology in Electronics and Electrical Engineering",
+        school: "Kalinga Institute of Industrial Technology",
         courses: [
             "Data Structures & Algorithms",
             "Big Data",
@@ -30,9 +30,9 @@ const COLLEGES = [
             "Advanced Computer Networks",
             "Advanced Machine Learning",
         ],
-        start: 2015,
-        end: 2019,
-        gpa: "3.74",
+        start: 2014,
+        end: 2018,
+        gpa: "3.84",
         imgSrc: "/images/pesu.jpeg",
     },
 ];
