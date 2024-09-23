@@ -10,38 +10,6 @@ const Experiences: React.FC = () => {
         <ConstrainedTitle side="left">Experiences</ConstrainedTitle>
         <div className={styles.items}>
           <div className={styles.timeline}/>
-          <div className={styles.item}>
-            <Image
-                className={styles.image}
-                height={100}
-                width={100}
-                src="/images/asu-small.jpeg"
-                alt="ASU"
-            />
-            <div className={styles.dotPrimary}>
-              <div className={styles.dotCore}/>
-            </div>
-            <div className={styles.connector}/>
-            <div className={styles.info}>
-              <Image
-                  height={100}
-                  width={100}
-                  className={styles.mobileImage}
-                  src="/images/asu-small.jpeg"
-                  alt="ASU"
-              ></Image>
-              <p className={styles.time}>Aug 2023 - May 2024</p>
-              <h4 className={styles.company}>ASU School of Community Resources and Development</h4>
-              <h4 className={styles.role}>Front End Engineer</h4>
-              <p className={styles.description}>
-                ⦿ &nbsp; &nbsp; Leading the development of a dashboard using React.js to provide a comprehensive
-                view of climate and community,
-                empowering users to build resilience and leverage actionable insights.<br></br>
-                ⦿ &nbsp; &nbsp; Designing an interface featuring a GIS-based mapping and analytics tool using
-                Leaflet with visualizations using D3.js.
-              </p>
-            </div>
-          </div>
 
           <div className={styles.item}>
             <Image
@@ -65,18 +33,13 @@ const Experiences: React.FC = () => {
                       src="/images/aruba.jpeg"
                       alt="Aruba Networks"
                   ></Image>
-                  <p className={styles.time}>May 2021 - July 2022</p>
-                  <h4 className={styles.company}>Aruba Networks</h4>
-                  <h4 className={styles.role}>Senior Software Engineer</h4>
+                  <p className={styles.time}>Nov 2023 – Jan 2024</p>
+                  <h4 className={styles.company}>Accenture Solutions Pvt. Ltd., Mumbai (India)</h4>
+                  <h4 className={styles.role}>Application Development lead (Senior Data Engineer)</h4>
                   <p className={styles.description}>
-                    ⦿ &nbsp; &nbsp; Led the development of a cross-platform testing solution using Python for a network security
-                    compliance tool, improving
-                    end-to-end testing efficiency and reducing resource requirements by 80%.<br/><br/>
-                    ⦿ &nbsp; &nbsp; Engineered an innovative Golang-based solution for deploying virtual machines across ESXi,
-                    Hyper-V, KVM, AWS, and Azure, resulting in a 60% efficiency boost and streamlined process.<br/><br/>
-                    ⦿ &nbsp; &nbsp; Crafted a comprehensive solution using Python to detect vulnerabilities across product code
-                    databases, ensuring robustness in software development practices resulting in a 15% reduction in
-                    potential security risks.<br/>
+                    ⦿ &nbsp; &nbsp; Led a team of 5 developers to implement coding standards, reducing project delays by 30%; collaborated with
+                      architects to design scalable software solutions, and oversaw testing and code reviews, enhancing application
+                      reliability and achieving on-time project milestones.<br/>
                   </p>
                 </div>
               </div>
