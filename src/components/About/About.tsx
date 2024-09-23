@@ -23,10 +23,10 @@ const About = ({ ...delegated }: Props) => {
             <div className={styles.aboutme}>
                 <SectionTitle side={"left"}>About Me</SectionTitle>
                 <p className={styles.description}>
-                    Hi there! My name is Shikhar Gupta, and I have recently graduated from Arizona State University
-                    with a Masters in Computer Science. As I embark on the next chapter of my career, I am exploring
-                    new opportunities for full-time roles in Full-stack Development, Machine Learning, or
-                    Cloud Infrastructure.
+                    Hi there! My name is Rukmangada, and I am pursuing MS in Business Analytics and 
+                    Artifical Intelligence from University of Texas at Dallas. As I embark on the 
+                    next chapter of my career, I am exploring new opportunities for full-time roles in 
+                    Data Engineering and Data Analyst/ Business Intelligence Engineer.
 
                 </p>
                 <div className={styles.description}>
