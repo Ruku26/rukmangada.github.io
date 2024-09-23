@@ -48,14 +48,23 @@ const Experiences: React.FC = () => {
                   <div className={styles.dotCore}/>
                 </div>
                 <div className={styles.info}>
-                  <p className={styles.time}>July 2019 - April 2021</p>
-                  <h4 className={styles.role}>Software Engineer</h4>
+                  <p className={styles.time}>Dec 2021 – Oct 2023</p>
+                  <h4 className={styles.role}>Application Development Senior Analyst (Data Engineer)</h4>
                   <p className={styles.description}>
-                    ⦿ &nbsp; &nbsp; Contributed to the development of a multi-threaded RESTApi Load Testing tool utilizing Jmeter,
-                    leading to a 10%
-                    improvement in product performance.<br/><br/>
-                    ⦿ &nbsp; &nbsp; Revamped monitoring and logging for a microservice-based architecture with Logstash, Kibana,
-                    Filebeat, Grafana, and InfluxDB, boosting performance visibility and cutting troubleshooting time by 50%.<br/>
+                    ⦿ &nbsp; &nbsp; Resolved complex technical issues by collaborating with development teams and stakeholders, successfully migrating
+                      extensive data codes from Microsoft SQL Server to Big Query on Google Cloud Platform resulting in reduction of cost
+                      by 34%<br/><br/>
+                    ⦿ &nbsp; &nbsp; Automated data pipelines by creating Airflow DAGs in Pyspark and Python, streamlining data flow and reducing
+                      manual processing time by over 80%<br/><br/>
+                    ⦿ &nbsp; &nbsp; Optimized data architecture by eliminating redundant datasets and consolidating code during Big Query migration,
+                    enhancing efficiency by 20%<br/><br/>
+                    ⦿ &nbsp; &nbsp; Integrated backend code for data extraction and developed Power BI visualizations, improving data accessibility<br/><br/>
+                    ⦿ &nbsp; &nbsp; Provided guidance on debugging and troubleshooting in production environments, ensuring system stability<br/><br/>
+                    ⦿ &nbsp; &nbsp; Led team through multiple sprints, focusing on critical user stories and optimizing code for timely deliverables<br/><br/>
+                    ⦿ &nbsp; &nbsp; Facilitated knowledge transfer through comprehensive documentation and training sessions, promoting team skill
+                    development<br/><br/>
+                    ⦿ &nbsp; &nbsp; Collaborated with business analysts, end-users, and stakeholders to gather requirements and develop effective
+                    technical solutions<br/>
                   </p>
                 </div>
               </div>
@@ -65,14 +74,42 @@ const Experiences: React.FC = () => {
                   <div className={styles.dotCore}/>
                 </div>
                 <div className={styles.info}>
-                  <p className={styles.time}>Jan 2019 - Jun 2019</p>
-                  <h4 className={styles.role}>Software Engineer Intern</h4>
+                  <p className={styles.time}>Jun 2020 – Nov 2021</p>
+                  <h4 className={styles.role}>Application Development Analyst</h4>
 
                   <p className={styles.description}>
-                    ⦿ &nbsp; &nbsp; Developed a Python-based automated UI testing solution using OpenCV, resulting in a 50% reduction in QA workload.
+                    ⦿ &nbsp; &nbsp; Identified and mitigated potential risks in the development process, proactively addressing issues to maintain project
+                    timelines and deliverables<br/><br/>
+                    ⦿ &nbsp; &nbsp; Developed advanced SQL queries and stored procedures for data reporting, performing detailed database analysis to
+                    apply appropriate business data filters<br/><br/>
+                    ⦿ &nbsp; &nbsp; Built ETL pipelines to migrate data from diverse sources to destination databases using SSIS packages, enhancing data
+                    integration and cutting data processing time by over 20%<br/><br/>
+                    ⦿ &nbsp; &nbsp; Optimized and tuned SQL queries for improved performance<br/>
                   </p>
                 </div>
               </div>
+
+              <div className={styles.bullet}>
+                <div className={styles.dotSecondary}>
+                  <div className={styles.dotCore}/>
+                </div>
+                <div className={styles.info}>
+                  <p className={styles.time}>Apr 2018 – May2020</p>
+                  <h4 className={styles.role}>Application Development Associate</h4>
+
+                  <p className={styles.description}>
+                    ⦿ &nbsp; &nbsp; Developed complex SQL queries to update, maintain, and debug the Opportunity Tracker application, supporting
+                    solution management and approval processes<br/><br/>
+                    ⦿ &nbsp; &nbsp; Documented application development processes, including design documents, coding standards, and technical
+                    specifications<br/><br/>
+                    ⦿ &nbsp; &nbsp; Collaborated with teams to upgrade data lake servers, minimizing disruptions and ensuring a smooth transition by
+                    evaluating compatibility and dependencies<br/>
+                  </p>
+                </div>
+              </div>
+
+              
+
             </div>
           </div>
           <div className={styles.item}>
@@ -95,14 +132,18 @@ const Experiences: React.FC = () => {
                   src="/images/stylumia.jpeg"
                   alt="Stylumia"
               />
-              <p className={styles.time}>Jun 2018 - Aug 2018</p>
-              <h4 className={styles.company}>Stylumia</h4>
+              <p className={styles.time}>Sep 2016 – May 2018</p>
+              <h4 className={styles.company}>ORGANIZATION EXPERIENCE</h4>
               <h4 className={styles.role}>
-                Machine Learning Intern
+              National Service Scheme (NSS), KIIT University (India), Member
               </h4>
               <p className={styles.description}>
-                ⦿ &nbsp; &nbsp; Crafted a machine learning model for product classification and integrated it with
-                a search bar, resulting in a 10% improvement in search efficiency.
+                ⦿ &nbsp; &nbsp; Executed a comprehensive survey across multiple villages near Bhubaneswar to collect data on educational levels and
+                school attendance among children<br/><br/>
+                ⦿ &nbsp; &nbsp; Analyzed survey data to identify areas with low educational enrollment and developed a targeted action plan for
+                community outreach<br/><br/>
+                ⦿ &nbsp; &nbsp; Coordinated with team members to visit identified villages, promote the importance of education, and provide
+                educational resources and support to local students<br/>
               </p>
             </div>
           </div>
