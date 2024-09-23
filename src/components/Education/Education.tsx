@@ -5,7 +5,7 @@ import styles from "./Education.module.css";
 
 const COLLEGES = [
     {
-        degree: "Master of Science in Business Analytics and Artificial Intelligence",
+        degree: "MS in Business Analytics and Artificial Intelligence",
         school: "University of Texas at Dallas",
         courses: [
             "Cloud Computing",
@@ -21,8 +21,8 @@ const COLLEGES = [
         imgSrc: "/images/asu.jpeg",
     },
     {
-        degree: "Bachelor of Technology in Electronics and Electrical Engineering",
-        school: "Kalinga Institute of Industrial Technology",
+        degree: "B.Tech in Electronics and Electrical Engineering",
+        school: "Kalinga Institute of Industrial Technology (KIIT)",
         courses: [
             "Data Structures & Algorithms",
             "Big Data",
