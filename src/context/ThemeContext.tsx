@@ -11,15 +11,15 @@ interface ThemeContextValue {
 const DARK_THEME_CONTEXT_VALUE: ThemeContextValue = {
   setTheme: () => {},
   logoUrl: "/images/logo.png",
-  aboutUrl: "/images/IMG_3168g",
-  aboutUrlSmall: "/images/IMG_3168g",
+  aboutUrl: "/images/shikhar.jpeg",
+  aboutUrlSmall: "/images/shikhar.jpeg",
 };
 
 const LIGHT_THEME_CONTEXT_VALUE: ThemeContextValue = {
   setTheme: () => {},
   logoUrl: "/images/logo-light.png",
-  aboutUrl: "/images/IMG_3168g",
-  aboutUrlSmall: "/images/IMG_3168g",
+  aboutUrl: "/images/shikhar.jpeg",
+  aboutUrlSmall: "/images/shikhar.jpeg",
 };
 
 const ThemeContext = React.createContext<ThemeContextValue>(
