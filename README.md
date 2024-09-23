@@ -43,7 +43,7 @@
 4. Start the development server
 
    ```sh
-   npm dev
+   yarn dev
    ```
 
 ## 🚀 Building and Running for Production
