@@ -24,7 +24,7 @@ const Hero = () => {
         <p className={styles.description}>
             I bring over 5 years of experience specializing in Data Engineering and Data Analytics. I am currently pursuing my MS from {" "}&nbsp;
             <Link
-                href="https://www.asu.edu/"
+                href="https://jindal.utdallas.edu/"
           target="_blank"
           rel="noreferrer noopener"
         >
