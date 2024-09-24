@@ -12,10 +12,10 @@ const ProjectGrid: React.FC<React.PropsWithChildren<IProps>> = ({
 }) => {
   return (
     <div className={styles.projectGrid} id="other-projects">
-      <h2 className={styles.subTitle}>
+      {/* <h2 className={styles.subTitle}>
         Other Projects
         <p className={styles.subText}>Tap on a project to learn more!</p>
-      </h2>
+      </h2> */}
 
       <div className={styles.grid} {...delegated}>
         {projects.map((project, idx) => {

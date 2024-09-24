@@ -22,15 +22,14 @@ const Hero = () => {
             {/*    alt="Typing SVG"/></a>*/}
         </h3>
         <p className={styles.description}>
-            I bring over 5 years of experience specializing in Data Engineering and Data Analytics. I am currently pursuing my MS from {" "}&nbsp;
-            <Link
+            I bring over 5 years of experience specializing in Data Engineering and Data Analytics. I am currently pursuing my MS in Business Analytics and Artificial Intelligence from {" "}&nbsp;
+        <Link
                 href="https://jindal.utdallas.edu/"
           target="_blank"
           rel="noreferrer noopener"
         >
           <Highlight>University of Texas at Dallas </Highlight>
         </Link>
-           pursuing a Masters in Business Analytics and Artificial Intelligence.
       </p>
       <Button className={styles.callToAction} onClick={scrollToContact}>
         Get In Touch
