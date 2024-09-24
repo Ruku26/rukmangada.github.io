@@ -13,15 +13,16 @@ const Splash: React.FC<React.PropsWithChildren<IProps>> = ({
 }) => {
   const { logoUrl } = useTheme();
   return (
-    <div className={styles.splash} {...delegated}>
-      <Image
-        className={styles.logo}
-        width={172}
-        height={160}
-        src={logoUrl}
-        alt="Logo"
-      />
-    </div>
+    // <div className={styles.splash} {...delegated}>
+    //   <Image
+    //     className={styles.logo}
+    //     width={172}
+    //     height={160}
+    //     src={logoUrl}
+    //     alt="Logo"
+    //   />
+    // </div>
+    null
   );
 };
 
