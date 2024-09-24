@@ -39,7 +39,7 @@ const About = ({ ...delegated }: Props) => {
                                 <path
                                     d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                             </svg>
-                            3+ Years of Professional Experience
+                            5+ Years of Professional Experience as a Data Engineer
                         </li>
                         <li className="flex items-start">
                             <svg className="w-4 h-4 mt-1 me-2 text-green-500 dark:text-green-400 flex-shrink-0"
@@ -48,7 +48,7 @@ const About = ({ ...delegated }: Props) => {
                                 <path
                                     d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                             </svg>
-                            Proficiency in Python, GoLang, Java, C++, JavaScript, and various libraries and frameworks, including D3.js, NodeJS, ReactJS, Django, Flask, and FastAPI.
+                            Proficiency in Python, PySpark, Spark, SQL, Airflow, Docker Kubernetes, Github, AWS services (S3, EMR, IAM, Lambda, etc.), Numpy, Pandas, MongoDB, Bash, etc.
 
                         </li>
                         <li className="flex items-start">
@@ -58,7 +58,7 @@ const About = ({ ...delegated }: Props) => {
                                 <path
                                     d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                             </svg>
-                            Expertise in Machine Learning with a strong foundation in TensorFlow, PyTorch, and Keras.
+                            Expertise in processing and transforming large structured and non-structured data
                         </li>
                         <li className="flex items-start">
                             <svg className="w-4 h-4 mt-1 me-2 text-green-500 dark:text-green-400 flex-shrink-0"
@@ -67,7 +67,11 @@ const About = ({ ...delegated }: Props) => {
                                 <path
                                     d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                             </svg>
-                            Certifications and Accreditations - AWS Certified Solutions Architect and Cloud Practitioner, Azure Databricks.
+
+                             • Certification of Executive General Management Program from Indian Institute of Management Calcutta (IIM Calcutta)
+                            <br />
+                            • Certifications of Meta Database Engineer from Coursera
+   
                         </li>
 
                     </ul>

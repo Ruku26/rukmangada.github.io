@@ -60,13 +60,13 @@ const Header = ({ initialTheme }: { initialTheme: string }) => {
         </aside>
       </div>
       <div className={clsx(styles.wrapper, showHeader && styles.show)}>
-        <Image
+        {/* <Image
           className={styles.logo}
           width={43}
           height={41}
           src={logoUrl}
           alt="Logo"
-        />
+        /> */}
         <nav className={styles.navbar}>
           <Navigation />
           <ThemeToggle initialTheme={initialTheme} />
