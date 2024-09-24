@@ -9,7 +9,7 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 // import Projects from "@/components/Projects";
 import Socials from "@/components/Socials";
-import Splash from "@/components/Splash";
+//import Splash from "@/components/Splash";
 import Technical from "@/components/Technical";
 import styles from "./Home.module.css";
 
@@ -32,7 +32,7 @@ const App = ({ initialTheme }: { initialTheme: string }) => {
                 <Contact/>
                 <Footer/>
             </div>
-            <Splash/>
+   
         </>
     );
 };
